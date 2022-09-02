@@ -1,6 +1,6 @@
-# Guía de consignas
+# Se cumplieron las consignas del trabajo parcial
 
-En cada uno de los componentes está detallado su funcionamiento.
+
 
 # Demo del proyecto
 
